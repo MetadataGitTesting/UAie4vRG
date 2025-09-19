@@ -1,0 +1,76 @@
+name: allyson.quigley
+description: parallelism
+version: 0.0.1
+author: lt8ww0jr.fkjo9iqy@lvkeamvc.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: allysonquigley
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:26:31'
+pipelines:
+  pipelines/Roseline_SchinnerI__D__ClairErnesto_Rodriguez:
+    name: Roseline_SchinnerI__D__ClairErnesto_Rodriguez
+    description: null
+    author: lt8ww0jr.fkjo9iqy@lvkeamvc.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:26:31'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/Ms__Luana_HarrisScott_Shawn_DeRocksTad_Strosin:
+    name: Ms__Luana_HarrisScott_Shawn_DeRocksTad_Strosin
+    description: null
+    author: lt8ww0jr.fkjo9iqy@lvkeamvc.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:26:32'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:26:31'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:26:31.775762Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1493602116'
+  createdAt: '2025-09-19T23:26:31.775762Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
